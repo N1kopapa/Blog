@@ -11,4 +11,5 @@
 - [ES6的特性 - 作用域](https://github.com/N1kopapa/Blog/issues/3)
 - [ES6的特性 - class类(一)](https://github.com/N1kopapa/Blog/issues/5)
 - [ES6的特性 - class类(二)](https://github.com/N1kopapa/Blog/issues/7)
+- [ES6的特性 - Promise](https://github.com/N1kopapa/Blog/issues/8)
 - [浏览器的工作原理 - cookie](https://github.com/N1kopapa/Blog/issues/6)
