@@ -16,3 +16,4 @@
 - [ES6的特性 - Promise](https://github.com/N1kopapa/Blog/issues/8)
 - [ES6的特性 - 使用Promise实现串行](https://github.com/N1kopapa/Blog/issues/10)
 - [浏览器的工作原理 - cookie](https://github.com/N1kopapa/Blog/issues/6)
+- [实例 - 数据类型判断](https://github.com/N1kopapa/Blog/issues/11)
